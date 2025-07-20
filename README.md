@@ -36,3 +36,7 @@ Example:
    ```bash
    git clone https://github.com/yourusername/caesar-cipher-python.git
    cd caesar-cipher-python
+# 2 .Run the python file
+   python3 caesar_cipher.py
+
+#3. Attached  Screenshot
